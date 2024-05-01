@@ -7,3 +7,4 @@ Experiencia Previa:
 2. Instalación, y migración de contenido de la web del equipo a LAMP usando el CMS PHPNuke por 2004.
 3. Gestión de un foro deportivo con phpBB por 2005 a 2009 (phpBB, phpMyAdmin).
 4. Desarrollo con Flash y HTML de la web de la empresa de un amigo en 2006.
+5. Desarrollo de un proyecto como autónomo tipo SAAS de 2019 a 2022 en LAMP.
